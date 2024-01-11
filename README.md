@@ -13,3 +13,10 @@ Implementing an Explainable AI (XAI) system provides a transparent and interpret
 
 ![image](https://github.com/shobanasiranjeevilu/XAI_for_fraud_transaction_detection/assets/114626356/d2d75e7e-4bdc-44e6-8e29-e7ae73a9c2f6)![image](https://github.com/shobanasiranjeevilu/XAI_for_fraud_transaction_detection/assets/114626356/23798fb0-c6d6-44c0-8911-237c6d2f629e)
 
+
+To understand it in more detail, below interpretation shows what ranges of values are classified as fraudulant claims
+
+<img width="663" alt="image" src="https://github.com/shobanasiranjeevilu/XAI_for_fraud_transaction_detection/assets/114626356/5a10ef8e-65ae-4a4d-b3db-663a0937572a">
+
+<img width="642" alt="image" src="https://github.com/shobanasiranjeevilu/XAI_for_fraud_transaction_detection/assets/114626356/6700c9c4-40eb-4915-964e-62bcd46c5ad9">
+
