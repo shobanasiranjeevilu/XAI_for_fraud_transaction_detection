@@ -3,7 +3,7 @@
 Implementing an Explainable AI (XAI) system provides a transparent and interpretable fraud detection models.​ XAI would allow the company to understand the factors and patterns the model considers when flagging claims as fraudulent or legitimate.​ This enhanced understanding would enable the company to fine-tune the model to reduce false positives (legitimate claims flagged as fraudulent) and false negatives, thus lowering operational costs and improving customer satisfaction.​
 
 
-<img width="863" alt="image" src="https://github.com/shobanasiranjeevilu/XAI_for_fraud_transaction_detection/assets/114626356/50ab4fbe-b93f-46ec-be03-4526d5c4c9cc">
+<img width="863" height="463" alt="image" src="https://github.com/shobanasiranjeevilu/XAI_for_fraud_transaction_detection/assets/114626356/50ab4fbe-b93f-46ec-be03-4526d5c4c9cc">
 
 ### XAI Interpretation on synthetic JP morgan transaction dataset using LIME
 
