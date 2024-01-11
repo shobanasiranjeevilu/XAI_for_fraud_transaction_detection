@@ -5,6 +5,8 @@ Implementing an Explainable AI (XAI) system provides a transparent and interpret
 
 <img width="863" height="463" alt="image" src="https://github.com/shobanasiranjeevilu/XAI_for_fraud_transaction_detection/assets/114626356/50ab4fbe-b93f-46ec-be03-4526d5c4c9cc">
 
+## Results
+
 ### XAI Interpretation on synthetic JP morgan transaction dataset using LIME
 
 #### Below charts explains what features contribute to the Actual and Predicted values
